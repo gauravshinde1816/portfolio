@@ -1,11 +1,13 @@
 .home{
     position: relative;
-    height: 600px;
+    height: 700px;
     width: 100%;
     background: url('../assets/bg.jpg');
     background-position: center;
     background-size: cover;
 }
+
+
 
 .overlay {
     height: 100%;

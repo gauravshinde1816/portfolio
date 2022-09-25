@@ -1,5 +1,5 @@
 import React from 'react';
-import ProfilePic from '../assets/profilepic.jpg';
+import ProfilePic from '../assets/Profile.png';
 // import ProfilePic1 from '../assets/profilepic1.jpeg';
 import ProfilePic1 from '../assets/profile2.jpeg';
 // import ResumeFile from '../assets/Vedant_Daigavane_Resume.pdf';
@@ -13,7 +13,7 @@ export default function About() {
 
       <div className="md:flex items-center space-y-8 md:space-y-0">
         <div className="md:order-last basis-1/3 h-full">
-          <img src={ProfilePic1} className="rounded-full h-52 w-52 mx-auto" alt=""></img>
+          <img src={ProfilePic} className="rounded-lg h-70 w-60 mx-auto" alt=""></img>
         </div>
         <div className="basis-2/3 space-y-4">
           <span className="text-gray-500 text-xl">Hi, I am </span>
@@ -48,7 +48,7 @@ export default function About() {
         </div>
         <a
           className="p-2 cursor-pointer rounded-lg relative px-10 w-max flex items-center m-auto space-x-4 border bg-slate-200"
-          href={'https://drive.google.com/file/d/1y07DZdv7oPGucnDmmwLa_DWzNCjbxTyY/view'}
+          href={'https://drive.google.com/file/d/14c_tgYfpOuySzqTWx8sQUhJOGWWKBLGJ/view'}
           target={'_blanck'}
           rel="noreferrer"
         >

@@ -8,7 +8,7 @@ export default function Home() {
         {/* <div className=" text-xl md:text-3xl text-cyan-500 font-light">Hii, I am</div> */}
         <div className=" max-w-6xl w-full space-y-4 text-center">
           <div className="text-4xl md:text-7xl text-gray-300 pb-2 text-center border-b border-gray-600 w-full">
-            <span className=" font-semibold">Vedant</span> <span className="font-thin">DAIGAVANE</span>
+            <span className=" font-semibold">Gaurav</span> <span className="font-thin">SHINDE</span>
           </div>
           <div className=" flex flex-col md:flex-row space-x-4 text-lg md:text-2xl justify-center items-center">
             <div className=" text-cyan-400 font-bold">Full-Stack Developer</div>
