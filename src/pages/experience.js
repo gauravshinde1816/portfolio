@@ -40,13 +40,13 @@ export default function Experience() {
                       if (index === exp.details.length - 1) {
                         console.log(detail);
                         return (
-                          <li className="mt-1.5">
+                          <div className="mt-1.5 flex flex-wrap">
                             {detail.split(',').map((d) => (
                               <span class=" mt-1.5 bg-purple-100 text-purple-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-purple-200 dark:text-purple-900">
                                 {d}
                               </span>
                             ))}
-                          </li>
+                          </div>
                         );
                       }
                       return <li>{detail}</li>;
