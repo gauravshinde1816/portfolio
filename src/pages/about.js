@@ -6,7 +6,7 @@ import ProfilePic from '../assets/Profile.png';
 export default function About() {
   return (
     <div className=" max-w-6xl mx-auto p-5 py-20" id="about">
-      <div className="text-6xl md:text-7xl text-center md:text-left font-medium text-gray-300 pb-4 mb-16">
+      <div className="text-6xl md:text-7xl text-center md:text-left font-medium text-gray-500 pb-4 mb-16">
         About Me
       </div>
 
@@ -18,7 +18,7 @@ export default function About() {
           <span className="text-gray-500 text-xl">Hi, I am </span>
           <div className="text-cyan-500 text-4xl font-bold">Gaurav Shinde</div>
           <div className="text-xl text-gray-500 font-semibold">Passionate Coder</div>
-          <div className="font-light text-gray-400">
+          <div className="font-light text-gray-500">
             Full-stack web developer aspiring to solve real-world problems by exploring insights
             from data, requirements of the end user. Being a Full Stack Developer, mostly works in
             MERN Stack , Java and GoLang, I have been developing a web app for the last 2 years now
