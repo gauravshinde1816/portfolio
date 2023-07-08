@@ -1,5 +1,5 @@
 import React from 'react';
-import ProfilePic from '../assets/Profile.png';
+import ProfilePic from '../assets/Profile2.png';
 
 
 
@@ -47,7 +47,7 @@ export default function About() {
         </div>
         <a
           className="p-2 cursor-pointer rounded-lg relative px-10 w-max flex items-center m-auto space-x-4 border bg-slate-200"
-          href={'https://drive.google.com/file/d/1cum-RWS87HewOpa7ESe8o36LU88-ThNx/view?usp=sharing'}
+          href={'https://drive.google.com/file/d/1GMQaKeltmKpMlSlsxDBR1q5BKd3zZ7Z9/view?usp=sharing          '}
           target={'_blanck'}
           rel="noreferrer"
         >
