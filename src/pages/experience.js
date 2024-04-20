@@ -64,6 +64,27 @@ export default function Experience() {
 
 const experiences = [
   {
+    position: 'Software Engineer',
+    company: 'DeepIntent',
+    details: [
+      'Spring Boot,GraphQL,React.js'
+    ],
+    date: 'April 2024 - Present',
+    img: 'https://mma.prnewswire.com/media/1165827/DeepIntent_Logo.jpg?p=facebook',
+    companyUrl: 'https://www.deepintent.com/',
+  },
+  {
+    position: 'Associate Software Engineer',
+    company: 'IDeaS Revenue Optimization Solution',
+    details: [
+      'Worked on Revenue Optimization Platform G3',
+      'Spring Boot,Docker,Vaadin'
+    ],
+    date: 'July 2023 - March 2024',
+    img: 'https://roomkeypms.com/wp-content/uploads/2019/01/IDeaS-A-Sas-Company-Logo.png',
+    companyUrl: 'https://ideas.com/',
+  },
+  {
     position: 'Software Engineering Intern',
     company: 'Altair',
     details: [
@@ -89,7 +110,7 @@ const experiences = [
       'Implemented Lazy Loading improve reload and response time of the response.',
       'Angular,ThreeJS,Angular Material',
     ],
-    date: 'Dec 21 - Jan 21',
+    date: 'Dec 21 - Jan 22',
     img: 'https://www.persistent.com/wp-content/uploads/2021/04/Logo-variants-Primary-vertical.jpg',
     companyUrl: 'https://www.persistent.com/',
   },
